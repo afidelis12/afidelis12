@@ -5,4 +5,6 @@
 - contato: adriana.souza06@cps.sp.gov.br
 
 Linkedln - https://www.linkedin.com/in/adriana-fidelis-de-souza-583700306/
+<div>
 <i class="devicon-androidstudio-plain"></i>
+</div>
