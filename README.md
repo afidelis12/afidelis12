@@ -6,8 +6,7 @@
 
 Linkedln - https://www.linkedin.com/in/adriana-fidelis-de-souza-583700306/
 
-<div>
-<i class="devicon-androidstudio-plain"></i>
-</div>
-
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-js" height="30">
 https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black
+</div>
